@@ -1,6 +1,6 @@
 #include "stdio.h"
 #include "stdlib.h"
-#include "tokenizer.c"
+#include "tokenizer.h"
 
 int main(){
   char str[100];
